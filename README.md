@@ -4,7 +4,9 @@ I'm [Taoli](https://ataoli.cn) (21 y.o) ! :sunglasses:
 
 :page_with_curl: 我目前学习:
 <br><br>
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux)
 <br><br>
 📫 联系我:
 <br><br>
