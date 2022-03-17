@@ -2,17 +2,26 @@
 
 I'm [Taoli](https://ataoli.cn) (21 y.o) ! :sunglasses:
 
-:page_with_curl: 我目前学习:
-<br><br>
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Linux](https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux)
-<br><br>
-📫 联系我:
-<br><br>
-<a href="mailto:admin@taoli.org">![E-mail](https://img.shields.io/badge/E--mail-admin%40taoli.org-blue)</a>
-<!---
-2823602869/2823602869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Taoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=2823602869&show_ions=true)
+#### :page_with_curl: 我目前学习:
+<br>
+<div align="left">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+</div>
+<br>
+#### 📫 联系我:
+<br>
+![E-mail](https://img.shields.io/badge/E--mail-admin%40taoli.org-blue)
+<br>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=2823602869&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
