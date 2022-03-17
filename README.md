@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @2823602869
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi 👋
 
+I'm [Taoli](https://ataoli.cn) (21 y.o) ! :sunglasses:
+
+:page_with_curl: 我目前学习:
+<br><br>
+📫 联系我:
+<br><br>
+<a href="mailto:admin@taoli.org">![E-mail](https://img.shields.io/badge/E--mail-admin%40taoli.org-blue)</a>
 <!---
 2823602869/2823602869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=2823602869)
+![Taoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=2823602869&show_ions=true)
