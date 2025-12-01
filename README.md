@@ -23,4 +23,3 @@ I'm [L](https://ataoli.cn) ! :sunglasses:
 <br><br>
 <div>
 <a href="mailto:admin@taoli.org"><img src="https://img.shields.io/badge/E--mail-admin%40taoli.org-blue" alt="Email" height="20"/></a>
-&nbsp;<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FZGUl3JRwwEaJm3k"></div>
